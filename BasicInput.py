@@ -1,0 +1,5 @@
+x=input("Choose a number ")
+y=input("choose another ")
+x=int(x)
+y=int(x)
+print(x*y)
